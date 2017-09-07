@@ -1,0 +1,8 @@
+prefix=/home/hao/Documents/CNN_SLAM/data/ros/install
+
+Name: laser_geometry
+Description: Description of laser_geometry
+Version: 1.6.4
+Cflags: -I/home/hao/Documents/CNN_SLAM/data/ros/install/include -I/usr/include -I/usr/include/eigen3
+Libs: -L/home/hao/Documents/CNN_SLAM/data/ros/install/lib -llaser_geometry -l:/usr/lib/x86_64-linux-gnu/libboost_system.so -l:/usr/lib/x86_64-linux-gnu/libboost_thread.so -l:/usr/lib/x86_64-linux-gnu/libboost_chrono.so -l:/usr/lib/x86_64-linux-gnu/libboost_date_time.so -l:/usr/lib/x86_64-linux-gnu/libboost_atomic.so -l:/usr/lib/x86_64-linux-gnu/libpthread.so
+Requires: 

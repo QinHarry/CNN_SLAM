@@ -1,0 +1,8 @@
+prefix=/home/hao/Documents/CNN_SLAM/data/ros/install
+
+Name: mit_data
+Description: Description of mit_data
+Version: 0.0.0
+Cflags: -I/home/hao/Documents/CNN_SLAM/data/ros/install/include
+Libs: -L/home/hao/Documents/CNN_SLAM/data/ros/install/lib -lmit_data
+Requires: nav_msgs roscpp rospy sensor_msgs std_msgs tf2 cv_bridge message_filters laser_geometry

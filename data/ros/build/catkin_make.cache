@@ -1,0 +1,2 @@
+mit_data:ros-laser-geometry-1.6.4
+-DCATKIN_DEVEL_PREFIX=/home/hao/Documents/CNN_SLAM/data/ros/devel -DCMAKE_INSTALL_PREFIX=/home/hao/Documents/CNN_SLAM/data/ros/install -G Unix Makefiles

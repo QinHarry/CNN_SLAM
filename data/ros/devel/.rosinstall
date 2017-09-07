@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/hao/Documents/CNN_SLAM/data/ros/devel/setup.sh
